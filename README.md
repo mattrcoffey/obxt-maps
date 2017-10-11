@@ -16,5 +16,6 @@ More driving with v4 tune.  Getting loads of timing removed (11.7) in the low lo
 
 V5 - pulled timing from 1600 - 2400 rpm in the .25-.93 loads.  Also pulled .5 timing from 700/800 rpm 1.10/1.27 load cells
 
-V6 - old v5, not tested yet. Replaced with new v5 for testing. removed some timing from 2000 and 2400 rpm range .42 - 1.10 loads. May just need to add fuel instead as I might be spooling faster than the base stage 2 rom from headers and uppipe.  Need to log to confirm.
+V5-old - old v5, not tested yet. Replaced with new v5 for testing. removed some timing from 2000 and 2400 rpm range .42 - 1.10 loads. May just need to add fuel instead as I might be spooling faster than the base stage 2 rom from headers and uppipe.  Need to log to confirm.
 
+V6 - changed rough correction range (load) for knock control to not effect IAM on loads below 1.8/1.75
