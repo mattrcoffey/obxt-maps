@@ -19,3 +19,5 @@ V5 - pulled timing from 1600 - 2400 rpm in the .25-.93 loads.  Also pulled .5 ti
 V5-old - old v5, not tested yet. Replaced with new v5 for testing. removed some timing from 2000 and 2400 rpm range .42 - 1.10 loads. May just need to add fuel instead as I might be spooling faster than the base stage 2 rom from headers and uppipe.  Need to log to confirm.
 
 V6 - changed rough correction range (load) for knock control to not effect IAM on loads below 1.8/1.75
+
+V7 - still getting low rpm/load knock. Not sure if false or not. Still need to get new endlinks. Experiencing lurching at 2000-2400 rpms in really low loads and only at slight throttle openings.  After some research going to try adding 10% to throttle tip in enrichment table. 
